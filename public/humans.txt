@@ -1,0 +1,37 @@
+/* TEAM */
+    Founder: Vaazhai Ventures Team
+    Contact: hello@vaazhai.org
+    From: India
+
+/* SITE */
+    Last update: 2024/01/15
+    Language: English
+    Doctype: HTML5
+    IDE: Visual Studio Code
+    Standards: HTML5, CSS3, JavaScript ES6+
+    Components: React, Tailwind CSS, Framer Motion
+    Software: Vite, TypeScript
+
+/* MISSION */
+    We are a startup incubator that nurtures early-stage entrepreneurs 
+    with personalized mentorship, deep values, and practical support 
+    to build businesses that matter.
+
+/* VALUES */
+    Rootedness: Stay connected to people, places, and problems
+    Integrity: Grow with honesty and transparency  
+    Clarity: Know what to build, why, and for whom
+    Impact: Solve problems that matter
+
+/* THANKS */
+    Name: React Team
+    Name: Tailwind CSS Team
+    Name: Framer Motion Team
+    Name: Lucide React Team
+    Name: Vite Team
+
+/* SITE */
+    Name: Vaazhai Ventures
+    URL: https://vaazhai.org
+    Twitter: @vaazhaiventures
+    Location: India 

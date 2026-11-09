@@ -1,0 +1,5 @@
+Contact: mailto:hello@vaazhai.org
+Expires: 2025-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://vaazhai.org/.well-known/security.txt
+Policy: https://vaazhai.org/security-policy 
